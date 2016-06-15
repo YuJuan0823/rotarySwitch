@@ -6,14 +6,14 @@
   width: 102px;
   height: 102px;
   cursor: pointer;
-  background: url(theme/darkSmallBackground@2x.png) no-repeat;
+  background: url("theme/darkSmallBackground@2x.png") no-repeat;
 }
 
 
 .rotaryswitchPlugin .switch {
   width: 100%;
   height: 100%;
-  background: url(theme/darkSmallFront@2x.png) no-repeat;
+  background: url("theme/darkSmallFront@2x.png") no-repeat;
 }
 
 .rotaryswitchPlugin .mark {
@@ -41,6 +41,6 @@
 }
 
 
-.rotaryswitchPlugin.big.light { background: url(theme/lightBigBackground.png) no-repeat; }
+.rotaryswitchPlugin.big.light { background: url("theme/lightBigBackground.png") no-repeat; }
 
-.rotaryswitchPlugin.big.light .switch { background: url(theme/lightBigFront.png) no-repeat; }
+.rotaryswitchPlugin.big.light .switch { background: url("theme/lightBigFront.png") no-repeat; }
